@@ -1,0 +1,45 @@
+@media print {
+
+    .tab-pane {
+        display: block !important;
+    }
+
+    .nav-item {
+        display: none !important;
+    }
+
+    .commentContainer {
+        overflow: visible !important;
+        display: block !important;
+        height: auto !important;
+        max-height: none !important;
+    }
+
+    .addComment {
+        display: none !important;
+    }
+
+    button {
+        display: none !important;
+    }
+
+    .collapse {
+        display: block !important;
+        height: auto !important;
+    }
+
+    .noResults {
+        display: none !important;
+    }
+
+    .fadeIn {
+        -webkit-animation-name: unset;
+        animation-name: unset;
+    }
+
+    * {
+        -webkit-print-color-adjust: exact !important;   /* Chrome, Safari */
+        color-adjust: exact !important;                 /*Firefox*/
+    }
+
+}

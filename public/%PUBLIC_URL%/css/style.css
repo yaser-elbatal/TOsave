@@ -1,0 +1,10 @@
+.app-header {
+  z-index: 998;
+
+}
+.navbar {
+  z-index: 998;
+}
+.sidebar-fixed {
+  z-index: 998;
+}
