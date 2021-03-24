@@ -1191,6 +1191,14 @@
     core-js "^3.3.4"
     regenerator-runtime "^0.13.3"
 
+"@coreui/icons-react@^1.0.2":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@coreui/icons-react/-/icons-react-1.1.0.tgz#c1462663f895818cc58adb97a0c19568cbb76254"
+  integrity sha512-OXDg09RsxlK5t6WizudsJUxgzJSAHeytwVG1hqn2ww5zIrJn5++5rNTp95N/kff4/er4f7jspwJ1/7n6mQAz2Q==
+  dependencies:
+    classnames "^2.2.6"
+    prop-types "^15.7.2"
+
 "@coreui/icons@0.3.0":
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/@coreui/icons/-/icons-0.3.0.tgz#d5bece91b1442a9543593d1146bc8042b18489e3"
@@ -1592,6 +1600,11 @@
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.6.0.tgz#f022195afdfc942e088ee2101285a1d31c7d727f"
   integrity sha512-cPqjjzuFWNK3BSKLm0abspP0sp/IGOli4p5I5fKFAzdS8fvjdOwDCfZqAaIiXd9lPkOWi3SUUfZof3hEb7J/uw==
+
+"@react-icons/all-files@^4.1.0":
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/@react-icons/all-files/-/all-files-4.1.0.tgz#477284873a0821928224b6fc84c62d2534d6650b"
+  integrity sha512-hxBI2UOuVaI3O/BhQfhtb4kcGn9ft12RWAFVMUeNjqqhLsHvFtzIkFaptBJpFDANTKoDfdVoHTKZDlwKCACbMQ==
 
 "@restart/context@^2.1.4":
   version "2.1.4"
@@ -10444,6 +10457,11 @@ react-github-btn@1.2.0:
   integrity sha512-/b2TGTeek5Ky+KtuP5BxOaXgb1FGhbwgZNI6rkwkGk7+xtCtsNMkdchOcCnC3qU1JGTWPKzYZWpPBIouVhXAoQ==
   dependencies:
     github-buttons "^2.8.0"
+
+react-icons@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/react-icons/-/react-icons-4.2.0.tgz#6dda80c8a8f338ff96a1851424d63083282630d0"
+  integrity sha512-rmzEDFt+AVXRzD7zDE21gcxyBizD/3NqjbX6cmViAgdqfJ2UiLer8927/QhhrXQV7dEj/1EGuOTPp7JnLYVJKQ==
 
 react-image-lightbox@5.1.1, react-image-lightbox@^5.1.1:
   version "5.1.1"
